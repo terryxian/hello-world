@@ -3,5 +3,9 @@
 
 int main()
 {
-  printf("hell githob!");
+  int i =0;
+  
+  i++;
+  
+  printf("hell githob!  the day is %d",i);
 }
